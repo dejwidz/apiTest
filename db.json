@@ -17,6 +17,12 @@
       "title": "Post 3",
       "body": "to jest trzeci post"
 
+    },
+    {
+      "id": 4,
+      "title": "Post 4",
+      "body": "to jest czwarty post"
+
     }
   ],
   "comments": [
